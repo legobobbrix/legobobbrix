@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @legobobbrix
 - 👀 i like learning hacking
-- 🌱 windows malware
+- 🌱 i want to learn code that can be useful in some situations
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : my discrord is legobobbrix#1108
 
